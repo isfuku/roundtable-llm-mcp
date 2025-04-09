@@ -1,5 +1,7 @@
 # MCP Example
 
+![](assets/diagram.excalidraw.png)
+
 Example of creating MCP client and server. To run, install `uv` and run
 
 ```bash
